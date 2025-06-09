@@ -11,10 +11,6 @@ A simple and responsive Todo List web application built with React. Users can ad
 - 📦 All tasks managed in a clean UI
 - ⚛️ Built using React
 
-## 🖼️ Demo
-
-![App Screenshot](screenshot.png) <!-- Optional: add your screenshot file or remove this line -->
-
 ## 🛠️ Tech Stack
 
 - React
